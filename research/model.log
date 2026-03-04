@@ -1,0 +1,7 @@
+2026-03-05 04:59:57,065 - INFO - 
+              Model  Accuracy  Precision    Recall  F1 Score
+0      RandomForest  0.944882   0.946721  0.942857  0.944785
+4           XGBoost  0.944590   0.948266  0.940525  0.944379
+1        ExtraTrees  0.944882   0.954708  0.934111  0.944297
+3  GradientBoosting  0.939633   0.941970  0.937026  0.939491
+2          AdaBoost  0.926801   0.926077  0.927697  0.926886
