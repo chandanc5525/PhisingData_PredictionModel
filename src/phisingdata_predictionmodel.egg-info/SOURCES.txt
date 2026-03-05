@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/data_ingestion.py
+src/data_transformation.py
+src/model_trainer.py
+src/pipeline.py
+src/phisingdata_predictionmodel.egg-info/PKG-INFO
+src/phisingdata_predictionmodel.egg-info/SOURCES.txt
+src/phisingdata_predictionmodel.egg-info/dependency_links.txt
+src/phisingdata_predictionmodel.egg-info/requires.txt
+src/phisingdata_predictionmodel.egg-info/top_level.txt
